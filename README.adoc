@@ -1,10 +1,11 @@
 
 Prometheus champ - for people who have difficulties understanding prometheus Querying language.
 
-== Usage
+Feedback is always welcome.
 
+== Usage
 open a shell and run:
-`prometheusChamp <user> <password> <complete_prometheus_uri_with_query>`
+`python prometheusChamp help`
 
 you will get maximum, minimum and average
 
@@ -15,3 +16,5 @@ $ pipenv --python 3.8
 $ pipenv install --dev
 $ pipenv shell
 ```
+
+
