@@ -1,0 +1,4 @@
+[BASE]
+prometheus_uri=https://XXXXX/api/v1/query_range?query=
+user=XXXX
+password=XXXX
